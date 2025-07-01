@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.salesforce.marketingcloud.explorer.debug",
+    "sha256_cert_fingerprints":
+    ["AF:38:95:18:B9:7A:A8:B5:2B:DB:83:33:09:98:46:C0:CF:35:09:ED:25:A6:A4:25:F8:26:93:79:B8:DA:3E:73"]
+  }
+}]
