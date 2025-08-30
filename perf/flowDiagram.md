@@ -1,4 +1,4 @@
-
+```mermaid
 graph TD
     A[Flow Engine Calls<br/>SendMobileAppMessageInvocableAction.invoke] --> B[Log Invocation Start<br/>@WithSpan creates root span]
     
@@ -111,3 +111,4 @@ graph TD
     class F,G,I,K,L,N,R,AA,BB,DD,EE,FF,GG,HH,KK,LL,MM,NN,OO,PP,RR,SS,TT,VV,WW,XX,YY,ZZ,AAA serviceClass
     class B,C,Q,X,II flowControl
     class EEE,FFF,GGG errorHandling
+```
