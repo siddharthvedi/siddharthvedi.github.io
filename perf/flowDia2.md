@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A["1. Entry Point:<br/>SendMobileAppMessageInvocableAction.invoke()"] --> B["2. Bulk Message Metadata Retrieval"]
     
@@ -46,3 +47,4 @@ flowchart TD
     style J2B fill:#fff3e0
     style L fill:#ffebee
     style M fill:#e8f5e8
+```
