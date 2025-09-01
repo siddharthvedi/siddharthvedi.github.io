@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Start: processRequestsForRecipients] --> B[Initialize results list and requestsNeedingFetch map]
     
@@ -70,3 +71,4 @@ flowchart TD
     style E fill:#ffebee
     style V2 fill:#ffebee
     style V5 fill:#ffebee
+```
